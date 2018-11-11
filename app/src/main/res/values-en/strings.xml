@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+    <string name="hello">hello world</string>
+    <string name="toggleLang">Toogle 中文</string>
+</resources>
